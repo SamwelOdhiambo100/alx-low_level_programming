@@ -6,7 +6,7 @@
  *   * Description:check whether a number is greater than 5
  *    * Return:Always 0 (sucess)
  *     *
- *      */
+*/
 int main(void)
 {
 	int n;
